@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cartyoo
 - 👀 I like coding and making Minecraft servers!
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing becayse I am making too much servers
 - 📫 How to reach me Discord. cartyoo#6969
 
 <!---
