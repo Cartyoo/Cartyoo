@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Cartyoo
 - 👀 I like coding and making Minecraft servers!
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothing becayse I am making too much servers
-- 📫 How to reach me Discord. cartyoo#6969
+- 🌱 I’m mainly coding in Java
+- 📫 How to reach me Discord. herbert#6969
 
 <!---
 Cartyoo/Cartyoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
