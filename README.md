@@ -1,4 +1,5 @@
-## Hi there 👋
+
+hey, i'm herberto, and i'm currently working at @PlasmaHost (https://plasmahost.net) and @Carbon-MC (https://carbonmc.net)
 
 <!--
 **Cartyoo/Cartyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
