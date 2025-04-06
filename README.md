@@ -1,10 +1,10 @@
 
-hey, i'm herberto, and i'm currently working at https://plasmahost.net and https://carbonmc.net!
+hey, i'm herberto, and i'm currently working at [Plasma Services](https://plasma.services/) and [PlasmaHost](https://plasmahost.net/)!
 
 
 i primarily make minecraft servers, and code in java/kotlin.
 
-see more about me here: https://herberto.xyz
+see more about me [here](https://herberto.xyz/
 
 contact me at herberto@herberto.xyz or herbert__ on discord
 
