@@ -1,12 +1,12 @@
 
-hey, i'm herberto, and i'm currently working at [Plasma Services](https://plasma.services/) and [PlasmaHost](https://plasmahost.net/)!
+hey, i'm herberto, and i'm an owner @ [Plasma Services](https://plasma.services/) to create resources for minecraft servers. 
+i also own [PlasmaHost](https://plasmahost.net/), which offers server hosting.
 
+i primarily make minecraft servers & plugins, and code in java.
 
-i primarily make minecraft servers, and code in java/kotlin.
+and you can see more about me [here](https://herberto.xyz/).
 
-see more about me [here](https://herberto.xyz/)
-
-contact me at herberto@herberto.xyz or herbert__ on discord
+contact me at herberto@herberto.xyz or herbert__ on discord.
 
 <!--
 **Cartyoo/Cartyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
