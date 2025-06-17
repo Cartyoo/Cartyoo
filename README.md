@@ -8,6 +8,8 @@ and you can see more about me [here](https://herberto.xyz/).
 
 contact me at herberto@herberto.xyz or herbert__ on discord.
 
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5840&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
+
 <!--
 **Cartyoo/Cartyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
