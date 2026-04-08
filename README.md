@@ -8,6 +8,10 @@ and you can see more about me [here](https://herberto.xyz/).
 
 contact me at herberto@herberto.xyz or herbert__ on discord.
 
+i work with these stacks <img src="https://github.com/user-attachments/assets/1ac50634-e0d9-4fbd-9b62-942821642a7c" width="32" height="32" />
+
+[![My Skills](https://skillicons.dev/icons?i=idea,java,mongodb,mysql,docker,linux,bash,ubuntu,arch,github,js,nodejs,discordjs,vscode,cloudflare,html,discord,spotify&perline=6)](https://skillicons.dev)
+
 <!--
 **Cartyoo/Cartyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
