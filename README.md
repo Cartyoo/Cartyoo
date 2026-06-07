@@ -4,9 +4,9 @@ i'm also an owner @ [Siegelands](https://siegelands.org), a minecraft network se
 
 i primarily make minecraft servers & plugins, specifically in java. i've been coding in java for around 4 years, and have been in the mincraft server space for around 5 years.
 
-see more about me [here](https://herberto.xyz/) :3
+see more about me at 🦊 https://foxes.cool/ :3
 
-contact me at herberto@herberto.xyz or herbert__ on discord.
+contact me at me@foxes.cool or herbert__ on discord.
 
 i work with these stacks <img src="https://cdn.discordapp.com/emojis/785675913341042718.webp?size=240" width="24" height="24">
 
