@@ -1,4 +1,4 @@
-hey, i'm herberto! i'm an owner @ [Plasma Services](https://plasma.services/), a minecraft development company with a wide catalog of plugins, as well as [PlasmaHost](https://plasmahost.net/), a hosting company that offers game, database, and discord bot hosting.
+hey, i'm foxfur! i'm an owner @ [Plasma Services](https://plasma.services/), a minecraft development company with a wide catalog of plugins, as well as [PlasmaHost](https://plasmahost.net/), a hosting company that offers game, database, and discord bot hosting.
 
 i'm also an owner @ [Siegelands](https://siegelands.org), a minecraft network seeing over 180-250+ players daily, with peaks of nearly 400.
 
